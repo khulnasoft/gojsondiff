@@ -1,13 +1,13 @@
 package formatter_test
 
 import (
-	. "github.com/yudai/gojsondiff/formatter"
+	. "github.com/khulnasoft/gojsondiff/formatter"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/yudai/gojsondiff/tests"
+	. "github.com/khulnasoft/gojsondiff/tests"
 
-	diff "github.com/yudai/gojsondiff"
+	diff "github.com/khulnasoft/gojsondiff"
 )
 
 var _ = Describe("Ascii", func() {

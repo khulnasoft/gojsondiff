@@ -1,11 +1,11 @@
 package gojsondiff_test
 
 import (
-	. "github.com/yudai/gojsondiff"
+	. "github.com/khulnasoft/gojsondiff"
 
+	. "github.com/khulnasoft/gojsondiff/tests"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/yudai/gojsondiff/tests"
 
 	"encoding/json"
 	"fmt"
