@@ -53,6 +53,6 @@ github.com/yudai/golcs
 # github.com/yudai/pp v2.0.2-0.20150410014804-be8315415630+incompatible
 ## explicit
 github.com/yudai/pp
-# golang.org/x/sys v0.0.0-20160717071931-a646d33e2ee3
-## explicit
+# golang.org/x/sys v0.1.0
+## explicit; go 1.17
 golang.org/x/sys/unix
