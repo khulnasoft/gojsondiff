@@ -16,5 +16,5 @@ require (
 	github.com/k0kubun/colorstring v0.0.0-20150214042306-9440f1994b88 // indirect
 	github.com/mattn/go-colorable v0.0.6 // indirect
 	github.com/mattn/go-isatty v0.0.0-20160806122752-66b8e73f3f5c // indirect
-	golang.org/x/sys v0.0.0-20160717071931-a646d33e2ee3 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
